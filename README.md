@@ -21,9 +21,9 @@
 
 <div align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Ctere1/react-native-chat?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Ctere1/react-native-chat?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Ctere1/react-native-chat?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Ctere1/padelup?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Ctere1/padelup?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Ctere1/padelup?style=social)
 
 </div>
 
@@ -34,7 +34,7 @@ It uses [Firebase](https://firebase.google.com/) (Web version 9) realtime databa
 
 - For the live demo video see [Demo.mp4](./media/ReactNativeChat-Live-Demo.mp4)     
 
-https://github.com/Ctere1/react-native-chat/assets/62745858/bcde4aa0-d2f2-4d8c-8716-bf274c059d2e
+https://github.com/Ctere1/padelup/assets/62745858/bcde4aa0-d2f2-4d8c-8716-bf274c059d2e
 
 >[!Note] 
   You can check the screenshots below
@@ -60,9 +60,9 @@ https://github.com/Ctere1/react-native-chat/assets/62745858/bcde4aa0-d2f2-4d8c-8
  
  ```bash
  # Clone this repository
- $ git clone https://github.com/Ctere1/react-native-chat
+ $ git clone https://github.com/Ctere1/padelup
  # Go into the repository
- $ cd react-native-chat
+ $ cd padelup
  # Install dependencies
  $ npm install
  ```
@@ -70,7 +70,7 @@ https://github.com/Ctere1/react-native-chat/assets/62745858/bcde4aa0-d2f2-4d8c-8
  > For running the app:
  ```bash
  # Go into the repository
- $ cd react-native-chat
+ $ cd padelup
  # Run the expo
  $ npx expo start
  ```
@@ -78,7 +78,7 @@ https://github.com/Ctere1/react-native-chat/assets/62745858/bcde4aa0-d2f2-4d8c-8
  After these steps install the [Expo Go](https://expo.dev/go) mobile app from the Google Play Store or Apple App Store on your testing device. This app allows you to run and test React Native applications built with Expo.
  
  > [!Warning]  
-   Do not forget to setup `.env` file for Firebase connection. Please see the [doc](https://firebase.google.com/docs/firestore/quickstart) or see this [comment](https://github.com/Ctere1/react-native-chat/issues/1#issuecomment-2414810841)
+   Do not forget to setup `.env` file for Firebase connection. Please see the [doc](https://firebase.google.com/docs/firestore/quickstart) or see this [comment](https://github.com/Ctere1/padelup/issues/1#issuecomment-2414810841)
 
 
 ## 🏗️Building Guide
@@ -157,7 +157,7 @@ This software uses the following packages:
 
 
 ## ©License
-![GitHub](https://img.shields.io/github/license/Ctere1/react-native-chat)
+![GitHub](https://img.shields.io/github/license/Ctere1/padelup)
 
 [LICENSE](./LICENSE)
 
@@ -167,6 +167,6 @@ This software uses the following packages:
 
 ![Alt](https://repobeats.axiom.co/api/embed/0d9c40f20e57bc518a7e1419e18f6b6cfa57873d.svg "Repobeats analytics image")
 
-<a href="https://github.com/Ctere1/react-native-chat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ctere1/react-native-chat" />
+<a href="https://github.com/Ctere1/padelup/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ctere1/padelup" />
 </a>

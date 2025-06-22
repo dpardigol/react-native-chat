@@ -3,13 +3,14 @@ import process from 'process';
 
 export default {
   expo: {
-    name: 'react-native-chat',
-    slug: 'react-native-chat',
+    name: 'padelup',
+    slug: 'padelup',
     version: '1.0.0',
     orientation: 'portrait',
     icon: 'src/assets/icon.png',
     userInterfaceStyle: 'light',
     entryPoint: './src/App.js',
+    scheme: 'exp+padelup',
     splash: {
       image: 'src/assets/splash.png',
       resizeMode: 'contain',
@@ -24,7 +25,7 @@ export default {
         foregroundImage: 'src/assets/adaptive-icon.png',
         backgroundColor: '#ffffff',
       },
-      package: 'com.ctere1.reactnativechat',
+      package: 'com.padelup.app',
     },
     web: {
       favicon: 'src/assets/favicon.png',
